@@ -29,4 +29,4 @@ Optional extended info:
 
 ### 1. Clone / Copy the Script
 ```bash
-curl -O https://example.com/server-stats.sh   # or copy from repo
+curl -O https://github.com/Rajrani1/Server_performmance_stats   # or copy from repo
